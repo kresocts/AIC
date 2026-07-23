@@ -1,0 +1,59 @@
+# Build direktoriji
+build/
+bin/
+obj/
+out/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+# Debug files
+*.pdb
+*.ilk
+*.dSYM/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj*
+*.user
+
+# CLion / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+x64/
+.vs/
+Debug/
+Release/
+*.idb
+*.pdb
+*.tlog
